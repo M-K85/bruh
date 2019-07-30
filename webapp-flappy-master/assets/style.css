@@ -1,0 +1,53 @@
+h1{ font-size: 56px;
+font-style: italic;
+font-family: Montserrat,
+  color: green;
+  text-align: center;
+}
+
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+    width: 800px;
+}
+
+p{ font-size: 20px;
+  font-style: italic;
+  color: white;
+      text-align: center;
+    }
+
+.fun {
+  text-align: center
+}
+
+.rules {
+  text-align: center;
+  color: white;
+}
+
+.welcome {
+  text-align: center;
+  color: white;
+}
+
+
+body{text-align: center;
+  background-image:url("nicep.png")
+
+}
+a{text-align: center;
+}
+
+#credits {
+    text-align: center;
+    color: white;
+  }
+
+  #content {
+      text-align: center;
+      color: white;
+    }
+
+head {text-align: center;}
